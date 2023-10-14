@@ -18,6 +18,7 @@ DWORD WINAPI Thread(LPVOID lpParam)
     Sleep(50);
     return 0;
 }
+
 int main()
 {
 
